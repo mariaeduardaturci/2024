@@ -1,0 +1,18 @@
+h1 {color: blue;
+}
+body {background-color: cyan;
+}
+h2 {color: darkblue;}
+h3 {color: darkslateblue;
+}
+h4 {color: red;
+}
+h1 {text-align: center;
+}
+h4 {text-align: center;
+}
+h3 {text-align: center;
+}
+h2 {text-align: center;
+}
+H1 {border:solid 3px black}
